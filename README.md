@@ -8,7 +8,7 @@ A curated collection of guided and real-world projects, code alongs and competit
 
 | Project                                                       | Description                                                      |
 |---------------------------------------------------------------|------------------------------------------------------------------|
-| [Investigating Netflix Movies](./netflix-movies-analysis/)  | Performed EDA on Netflix movie data to uncover trends from a specific decade.|
+| [Investigating Netflix Movies](./netflix-movies-analysis/)  | Performed EDA on Netflix movies data to uncover trends in the 1990s.|
 | [Exploring NYC Public School Test Result Scores](./nyc-school-test-scores/)| Analyzed NYC public school test scores using data manipulation and summary statistics.    |
 | [Data-Driven Product Management: Conducting a Market Analysis](./fitness-market-analysis/)  | Analyzed local and global fitness trends to identify product opportunities.         |
 
